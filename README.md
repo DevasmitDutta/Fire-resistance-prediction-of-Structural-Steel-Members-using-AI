@@ -1,5 +1,5 @@
-### Hi there 👋
-## This repository contains code that simulates fire-resistance of steel-columns using artificial intelligence.
+## Hi there 👋
+### This repository contains code that simulates fire-resistance of steel-columns using artificial intelligence. Refer to this paper for more in-sights.
 <!--
 **DevasmitDutta/DevasmitDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
